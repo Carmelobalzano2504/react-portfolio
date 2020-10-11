@@ -21,7 +21,7 @@ export default function() {
                         </div>
 
                         <div className="text">
-                          555-555-5555
+                          1-985-710-6349
                         </div>
                     </div>
 
@@ -31,7 +31,7 @@ export default function() {
                         </div>
 
                         <div className="text">
-                          myEmail@gmail.com
+                          balzanoitaliano@gmail.com
                         </div>
                     </div>
 
@@ -41,7 +41,7 @@ export default function() {
                         </div>
 
                         <div className="text">
-                          My address 12345, Florida
+                          Saint Petersburg, Florida
                         </div>
                     </div>
                 </div>
