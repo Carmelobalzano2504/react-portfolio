@@ -1,5 +1,5 @@
 import React from 'react';
-import contactPicture from "../../../static/assets/images/contactImage/BincImage2.jpg";
+import contactPicture from "../../../static/assets/images/contactImage/StPeteBeach.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function() {
@@ -15,6 +15,7 @@ export default function() {
             
             <div className="right-column">
                 <div className="contact-bullet-points">
+                
                     <div className="bullet-point-group">
                         <div className="icon">
                           <FontAwesomeIcon icon="mobile-alt" />
@@ -44,6 +45,13 @@ export default function() {
                           Saint Petersburg, Florida
                         </div>
                     </div>
+
+                    <div className="bullet-point-group">
+                        <div className="icon">
+                          <div className="github-link" font-size="14px">Git Hub: https://github.com/Carmelobalzano2504?tab=repositories</div>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
