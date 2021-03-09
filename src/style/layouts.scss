@@ -1,5 +1,6 @@
 .content-page-wrapper {
     width: 100vw;
+    padding-left: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     height: calc(100vh - 84px);
@@ -19,10 +20,15 @@
             .bullet-point-group {
                 display: flex;
                 align-items: center;
+                color: $offwhite;
 
                 .icon {
-                    font-size: 2em;
+                    font-size: 1.5em;
                     color: $charcoal;
+                }
+
+                .git-hub-link {
+                    color: $offwhite;
                 }
 
                 .text {
