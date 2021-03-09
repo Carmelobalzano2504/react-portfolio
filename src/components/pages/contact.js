@@ -48,7 +48,7 @@ export default function() {
 
                     <div className="bullet-point-group">
                         <div className="icon">
-                          <a className='git-hub-link' href="https://github.com/Carmelobalzano2504">Git Hub: https://https://github.com/Carmelobalzano2504</a>
+                          <a className='git-hub-link' href="https://github.com/Carmelobalzano2504?tab=repositories">Git Hub: https://https://github.com/Carmelobalzano2504</a>
                         </div>
                     </div>
 
